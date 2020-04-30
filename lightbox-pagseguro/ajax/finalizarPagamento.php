@@ -5,7 +5,7 @@
     $data['email'] = 'oseuemail'; //está em "Vendedor"
     $data['currency'] = 'BRL'; //vai ficar em real
     $data['reference'] = uniqid();
-    $data['notificationURL'] = 'http://localhost/34-loja-virtual/retorno.php';
+    $data['notificationURL'] = 'http://localhost/lightbox-pagseguro/retorno.php';
 
     $index = 1;
 
