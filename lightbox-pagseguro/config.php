@@ -11,7 +11,7 @@
     spl_autoload_register($autoLoad);
 
     
-    define('INCLUDE_PATH', 'http://localhost/34-loja-virtual/');
+    define('INCLUDE_PATH', 'http://localhost/lightbox-pagseguro/');
     
     define('INCLUDE_PATH_PAINEL', INCLUDE_PATH.'Painel/');
     
